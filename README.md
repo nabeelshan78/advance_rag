@@ -25,6 +25,7 @@ The goal is to provide a practical guide and reusable code for understanding and
 The repository is organized into modules, each focusing on a core stage of the advanced RAG pipeline.
 
 ```bash
+./advanced-rag-techniques
 ├── advance_chunking/
 │ ├── Chunking_and_Vec_Search.ipynb # Notebook exploring various text chunking strategies.
 | ├── travel_search_with_weaviate.ipynb # Advanced search, filtering, and reranking.
